@@ -1,7 +1,5 @@
 # COVID-19-Visualization
 
-This is my personal project and does not link to any organization.
-
 # Introduction
 The rapid spread in the novel corona-virus across countries, John Hopskin University have published latest data on the impact of COVID-19 over the past year. I have been going through many sources and articles to understand the fatality trend and was excited to apply data visualization on this pandemic as personal project. For visualization, I am using seaborn, pygal, plotly, and matplotlib tool available in Python.
 The dataset was published by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) and collected from their Github page.
